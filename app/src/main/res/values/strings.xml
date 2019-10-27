@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">submission_ReviewHostingID</string>
+    <string name="host_name">Nama Hosting</string>
+    <string name="detail_name">Detail</string>
+    <string name="email">isminururrizqi.nr@gmail.com</string>
+    <string name="nama">ISMI NURURRIZQI</string>
+    <string name="list_hosting">List Hosting ID</string>
+    <string name="about">About</string>
+    <string name="logo_hosting">Logo Hosting</string>
+    <string name="nama_hosting">Nama Hosting</string>
+    <string name="deskripsi_hosting">Deskripsi Hosting</string>
+    <string name="kelebihan">Kelebihan</string>
+    <string name="kekurangan">Kekurangan</string>
+    <string name="textview">TextView</string>
+</resources>
